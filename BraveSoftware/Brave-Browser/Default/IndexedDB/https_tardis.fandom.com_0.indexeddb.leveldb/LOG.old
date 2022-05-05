@@ -1,0 +1,32 @@
+2022/04/17-18:21:10.074 3f93 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tardis.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-18:21:10.075 3f93 Recovering log #19
+2022/04/17-18:21:10.102 3f93 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_tardis.fandom.com_0.indexeddb.leveldb/000019.log 
+2022/04/17-18:21:10.102 3f93 Delete type=2 #20
+2022/04/17-18:21:10.102 3f93 Delete type=2 #17
+2022/04/17-18:21:16.121 1ccd Level-0 table #24: started
+2022/04/17-18:21:16.138 1ccd Level-0 table #24: 914372 bytes OK
+2022/04/17-18:21:16.140 1ccd Delete type=0 #19
+2022/04/17-18:21:23.517 4373 Compacting 1@1 + 1@2 files
+2022/04/17-18:21:23.528 4373 Generated table #25@1: 386 keys, 33242 bytes
+2022/04/17-18:21:23.528 4373 Compacted 1@1 + 1@2 files => 33242 bytes
+2022/04/17-18:21:23.530 4373 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/17-18:21:23.530 4373 Delete type=2 #24
+2022/04/17-18:21:23.530 4373 Delete type=2 #21
+2022/04/17-18:21:59.159 1cea Level-0 table #27: started
+2022/04/17-18:21:59.172 1cea Level-0 table #27: 915407 bytes OK
+2022/04/17-18:21:59.175 1cea Delete type=0 #23
+2022/04/17-18:22:00.024 1cea Compacting 1@1 + 1@2 files
+2022/04/17-18:22:00.031 1cea Generated table #28@1: 510 keys, 40926 bytes
+2022/04/17-18:22:00.031 1cea Compacted 1@1 + 1@2 files => 40926 bytes
+2022/04/17-18:22:00.033 1cea compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/17-18:22:00.033 1cea Delete type=2 #25
+2022/04/17-18:22:00.033 1cea Delete type=2 #27
+2022/04/17-18:30:09.668 4b3b Level-0 table #30: started
+2022/04/17-18:30:09.688 4b3b Level-0 table #30: 915302 bytes OK
+2022/04/17-18:30:09.690 4b3b Delete type=0 #26
+2022/04/17-18:31:40.309 1cea Compacting 1@1 + 1@2 files
+2022/04/17-18:31:40.322 1cea Generated table #31@1: 302 keys, 29655 bytes
+2022/04/17-18:31:40.322 1cea Compacted 1@1 + 1@2 files => 29655 bytes
+2022/04/17-18:31:40.324 1cea compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/17-18:31:40.325 1cea Delete type=2 #30
+2022/04/17-18:31:40.325 1cea Delete type=2 #28

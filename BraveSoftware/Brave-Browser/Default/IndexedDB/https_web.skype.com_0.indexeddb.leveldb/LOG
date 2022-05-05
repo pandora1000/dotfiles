@@ -1,0 +1,12 @@
+2022/04/22-01:01:33.768 458 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-01:01:33.768 458 Recovering log #76
+2022/04/22-01:01:33.785 458 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.skype.com_0.indexeddb.leveldb/000076.log 
+2022/04/22-01:01:35.646 459 Level-0 table #81: started
+2022/04/22-01:01:35.670 459 Level-0 table #81: 1575300 bytes OK
+2022/04/22-01:01:35.673 459 Delete type=0 #76
+2022/04/22-01:01:35.980 459 Compacting 1@1 + 1@2 files
+2022/04/22-01:01:36.017 459 Generated table #82@1: 11394 keys, 1728678 bytes
+2022/04/22-01:01:36.017 459 Compacted 1@1 + 1@2 files => 1728678 bytes
+2022/04/22-01:01:36.019 459 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/22-01:01:36.019 459 Delete type=2 #81
+2022/04/22-01:01:36.019 459 Delete type=2 #78

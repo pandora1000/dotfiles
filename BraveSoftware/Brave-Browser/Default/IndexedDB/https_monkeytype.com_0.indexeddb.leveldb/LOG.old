@@ -1,0 +1,25 @@
+2022/04/25-02:46:42.958 2cf65 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/25-02:46:42.959 2cf65 Recovering log #69
+2022/04/25-02:46:42.959 2cf65 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000069.log 
+2022/04/25-02:46:42.959 2cf65 Delete type=2 #68
+2022/04/25-02:46:43.225 2cf65 Level-0 table #74: started
+2022/04/25-02:46:43.227 2cf65 Level-0 table #74: 2195 bytes OK
+2022/04/25-02:46:43.232 2cf65 Delete type=0 #69
+2022/04/25-02:46:43.232 2cf65 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\x05' @ 1072 : 1
+2022/04/25-02:46:43.232 2cf65 Compacting 1@0 + 1@1 files
+2022/04/25-02:46:43.235 2cf65 Generated table #75@0: 53 keys, 1745 bytes
+2022/04/25-02:46:43.235 2cf65 Compacted 1@0 + 1@1 files => 1745 bytes
+2022/04/25-02:46:43.239 2cf65 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/25-02:46:43.239 2cf65 Delete type=2 #74
+2022/04/25-02:46:43.239 2cf65 Manual compaction at level-0 from '\x00\x14\x00\x00\x05' @ 1072 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/25-02:46:46.051 2cf8d Level-0 table #77: started
+2022/04/25-02:46:46.053 2cf8d Level-0 table #77: 2186 bytes OK
+2022/04/25-02:46:46.056 2cf8d Delete type=0 #73
+2022/04/25-02:46:46.056 2cf8d Delete type=2 #71
+2022/04/25-02:46:46.056 2cf8d Manual compaction at level-0 from '\x00\x15\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 1129 : 1
+2022/04/25-02:46:46.056 2cf8d Compacting 1@0 + 1@1 files
+2022/04/25-02:46:46.058 2cf8d Generated table #78@0: 53 keys, 1741 bytes
+2022/04/25-02:46:46.058 2cf8d Compacted 1@0 + 1@1 files => 1741 bytes
+2022/04/25-02:46:46.060 2cf8d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/25-02:46:46.060 2cf8d Delete type=2 #77
+2022/04/25-02:46:46.060 2cf8d Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 1129 : 1 .. '\x00\x16\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2022/04/16-23:48:50.813 68e3 Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.scmp.com_0.indexeddb.leveldb since it was missing.
+2022/04/16-23:48:50.818 68e3 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.scmp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/16-23:50:32.817 61db Level-0 table #5: started
+2022/04/16-23:50:32.848 61db Level-0 table #5: 17384 bytes OK
+2022/04/16-23:50:32.850 61db Delete type=0 #3
+2022/04/16-23:50:32.850 61db Manual compaction at level-0 from (begin) .. (end); will stop at (end)

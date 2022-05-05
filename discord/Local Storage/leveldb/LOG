@@ -1,0 +1,15 @@
+2022/05/05-22:20:50.853 4c5 Reusing MANIFEST /home/dawn/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/05/05-22:20:50.853 4c5 Recovering log #246
+2022/05/05-22:20:50.854 4c5 Reusing old log /home/dawn/.config/discord/Local Storage/leveldb/000246.log 
+2022/05/05-22:21:51.493 4c5 Level-0 table #250: started
+2022/05/05-22:21:51.497 4c5 Level-0 table #250: 34829 bytes OK
+2022/05/05-22:21:51.499 4c5 Delete type=0 #246
+2022/05/05-22:21:51.499 4c5 Compacting 4@0 + 1@1 files
+2022/05/05-22:21:51.505 4c5 Generated table #251@0: 118 keys, 441845 bytes
+2022/05/05-22:21:51.505 4c5 Compacted 4@0 + 1@1 files => 441845 bytes
+2022/05/05-22:21:51.507 4c5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/05/05-22:21:51.507 4c5 Delete type=2 #239
+2022/05/05-22:21:51.507 4c5 Delete type=2 #247
+2022/05/05-22:21:51.507 4c5 Delete type=2 #250
+2022/05/05-22:21:51.507 4c5 Delete type=2 #242
+2022/05/05-22:21:51.507 4c5 Delete type=2 #245

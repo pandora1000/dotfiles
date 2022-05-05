@@ -1,0 +1,6 @@
+2022/04/22-11:34:41.494 562e Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_diannao.jd.com_0.indexeddb.leveldb since it was missing.
+2022/04/22-11:34:41.499 562e Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_diannao.jd.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-11:34:43.673 53a0 Level-0 table #5: started
+2022/04/22-11:34:43.675 53a0 Level-0 table #5: 832 bytes OK
+2022/04/22-11:34:43.677 53a0 Delete type=0 #3
+2022/04/22-11:34:43.677 53a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

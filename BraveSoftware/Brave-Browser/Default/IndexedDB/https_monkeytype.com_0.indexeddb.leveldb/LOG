@@ -1,0 +1,14 @@
+2022/04/25-02:48:28.269 2d39b Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/25-02:48:28.269 2d39b Recovering log #76
+2022/04/25-02:48:28.269 2d39b Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000076.log 
+2022/04/25-02:48:28.269 2d39b Delete type=2 #75
+2022/04/25-02:48:28.507 2d3ca Level-0 table #81: started
+2022/04/25-02:48:28.509 2d3ca Level-0 table #81: 2195 bytes OK
+2022/04/25-02:48:28.511 2d3ca Delete type=0 #76
+2022/04/25-02:48:28.511 2d3ca Manual compaction at level-0 from '\x00\x16\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at '\x00\x16\x00\x00\x05' @ 1186 : 1
+2022/04/25-02:48:28.511 2d3ca Compacting 1@0 + 1@1 files
+2022/04/25-02:48:28.513 2d3ca Generated table #82@0: 57 keys, 1789 bytes
+2022/04/25-02:48:28.513 2d3ca Compacted 1@0 + 1@1 files => 1789 bytes
+2022/04/25-02:48:28.515 2d3ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/25-02:48:28.515 2d3ca Delete type=2 #81
+2022/04/25-02:48:28.515 2d3ca Manual compaction at level-0 from '\x00\x16\x00\x00\x05' @ 1186 : 1 .. '\x00\x17\x00\x00\x00' @ 0 : 0; will stop at (end)

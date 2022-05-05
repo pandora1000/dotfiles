@@ -1,0 +1,6 @@
+2022/04/17-18:31:21.883 4b3b Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_villains.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/04/17-18:31:21.893 4b3b Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_villains.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/17-18:31:40.907 512d Level-0 table #5: started
+2022/04/17-18:31:40.913 512d Level-0 table #5: 253053 bytes OK
+2022/04/17-18:31:40.915 512d Delete type=0 #3
+2022/04/17-18:31:40.915 512d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

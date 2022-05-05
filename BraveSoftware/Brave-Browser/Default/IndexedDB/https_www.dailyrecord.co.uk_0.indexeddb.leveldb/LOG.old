@@ -1,0 +1,6 @@
+2022/04/30-17:27:19.602 8f7 Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb since it was missing.
+2022/04/30-17:27:19.608 8f7 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.dailyrecord.co.uk_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/30-17:35:40.399 1240 Level-0 table #5: started
+2022/04/30-17:35:40.401 1240 Level-0 table #5: 1760 bytes OK
+2022/04/30-17:35:40.403 1240 Delete type=0 #3
+2022/04/30-17:35:40.404 1240 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

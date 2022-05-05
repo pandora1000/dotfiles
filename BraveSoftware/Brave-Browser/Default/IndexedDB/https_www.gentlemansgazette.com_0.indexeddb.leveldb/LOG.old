@@ -1,0 +1,15 @@
+2022/04/22-10:55:03.368 438d Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gentlemansgazette.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/22-10:55:03.369 438d Recovering log #4
+2022/04/22-10:55:03.369 438d Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.gentlemansgazette.com_0.indexeddb.leveldb/000004.log 
+2022/04/22-10:57:14.806 2eea Level-0 table #8: started
+2022/04/22-10:57:14.809 2eea Level-0 table #8: 63944 bytes OK
+2022/04/22-10:57:14.811 2eea Delete type=0 #4
+2022/04/22-10:57:14.811 2eea Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/22-10:57:14.811 2eea Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x00\x00\xc8\x04\x00s\x00k\x00i\x00p' @ 1173 : 1
+2022/04/22-10:57:14.811 2eea Compacting 1@1 + 1@2 files
+2022/04/22-10:57:14.815 2eea Generated table #9@1: 380 keys, 56003 bytes
+2022/04/22-10:57:14.815 2eea Compacted 1@1 + 1@2 files => 56003 bytes
+2022/04/22-10:57:14.817 2eea compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/22-10:57:14.817 2eea Delete type=2 #5
+2022/04/22-10:57:14.817 2eea Delete type=2 #8
+2022/04/22-10:57:14.817 2eea Manual compaction at level-1 from '\x00\x04\x00\x00\xc8\x04\x00s\x00k\x00i\x00p' @ 1173 : 1 .. (end); will stop at (end)

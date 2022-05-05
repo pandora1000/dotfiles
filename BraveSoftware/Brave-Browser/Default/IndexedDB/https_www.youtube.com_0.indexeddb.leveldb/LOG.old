@@ -1,0 +1,9 @@
+2022/05/04-07:00:43.750 499 Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/04-07:00:43.751 499 Recovering log #1010
+2022/05/04-07:00:43.760 499 Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/001010.log 
+2022/05/04-07:00:44.192 4aa Compacting 1@1 + 1@2 files
+2022/05/04-07:00:44.198 4aa Generated table #1013@1: 475 keys, 46171 bytes
+2022/05/04-07:00:44.198 4aa Compacted 1@1 + 1@2 files => 46171 bytes
+2022/05/04-07:00:44.200 4aa compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/05/04-07:00:44.200 4aa Delete type=2 #1008
+2022/05/04-07:00:44.200 4aa Delete type=2 #1011

@@ -1,0 +1,6 @@
+2022/05/01-18:09:28.537 c1aa Creating DB /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forms.office.com_0.indexeddb.leveldb since it was missing.
+2022/05/01-18:09:28.542 c1aa Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forms.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/05/01-18:09:33.205 e009 Level-0 table #5: started
+2022/05/01-18:09:33.207 e009 Level-0 table #5: 9706 bytes OK
+2022/05/01-18:09:33.209 e009 Delete type=0 #3
+2022/05/01-18:09:33.210 e009 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

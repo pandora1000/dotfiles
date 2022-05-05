@@ -1,0 +1,24 @@
+2022/04/30-17:22:07.587 77b Reusing MANIFEST /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/30-17:22:07.587 77b Recovering log #43
+2022/04/30-17:22:07.601 77b Reusing old log /home/dawn/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_videos.lukesmith.xyz_0.indexeddb.leveldb/000043.log 
+2022/04/30-17:22:07.681 8ec Level-0 table #48: started
+2022/04/30-17:22:07.689 8ec Level-0 table #48: 254988 bytes OK
+2022/04/30-17:22:07.692 8ec Delete type=0 #43
+2022/04/30-17:22:07.692 8ec Manual compaction at level-0 from '\x00\x0b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0b\x01\x03\x03\x00\x00\x00\x00\x00\xec\x93@' @ 43857 : 1
+2022/04/30-17:22:07.692 8ec Compacting 1@0 + 1@1 files
+2022/04/30-17:22:07.699 8ec Generated table #49@0: 8577 keys, 71896 bytes
+2022/04/30-17:22:07.699 8ec Compacted 1@0 + 1@1 files => 71896 bytes
+2022/04/30-17:22:07.701 8ec compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/30-17:22:07.701 8ec Delete type=2 #48
+2022/04/30-17:22:07.701 8ec Manual compaction at level-0 from '\x00\x0b\x01\x03\x03\x00\x00\x00\x00\x00\xec\x93@' @ 43857 : 1 .. '\x00\x0c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/04/30-17:25:04.366 8fc Level-0 table #51: started
+2022/04/30-17:25:04.374 8fc Level-0 table #51: 197672 bytes OK
+2022/04/30-17:25:04.376 8fc Delete type=2 #45
+2022/04/30-17:25:04.376 8fc Delete type=0 #47
+2022/04/30-17:25:04.376 8fc Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x01\x03\x03\x00\x00\x00\x00\x000\x8b@' @ 76911 : 1
+2022/04/30-17:25:04.376 8fc Compacting 1@0 + 1@1 files
+2022/04/30-17:25:04.389 8fc Generated table #52@0: 9788 keys, 82040 bytes
+2022/04/30-17:25:04.389 8fc Compacted 1@0 + 1@1 files => 82040 bytes
+2022/04/30-17:25:04.391 8fc compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/04/30-17:25:04.391 8fc Delete type=2 #51
+2022/04/30-17:25:04.391 8fc Manual compaction at level-0 from '\x00\x0c\x01\x03\x03\x00\x00\x00\x00\x000\x8b@' @ 76911 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)
